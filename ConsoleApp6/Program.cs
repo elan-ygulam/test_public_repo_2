@@ -9,6 +9,11 @@ namespace ConsoleApp6
             Console.WriteLine("Hello World!");
 
             Console.ReadKey();
+
+            Console.WriteLine("A simple update");
+
+            Console.ReadKey();
+
         }
     }
 }
